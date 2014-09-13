@@ -5,15 +5,15 @@
 	<parent>
 		<groupId>group</groupId>
 		<artifactId>artefakt-parent</artifactId>
-		<version>1.18</version>
+		<version>3.1</version>
 	</parent>
 
 	<groupId>group</groupId>
 	<artifactId>project2</artifactId>
-	<version>1.18</version>
+	<version>3.1</version>
 
 	<properties>
-		<project1.version>1.18</project1.version>
+		<project1.version>3.1</project1.version>
 	</properties>
 
 	<dependencies>
