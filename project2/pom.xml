@@ -10,7 +10,7 @@
 
 	<groupId>group</groupId>
 	<artifactId>project2</artifactId>
-	<version>1.19-SNAPSHOT</version>
+	<version>1.18</version>
 
 	<properties>
 		<project1.version>1.18</project1.version>
