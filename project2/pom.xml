@@ -5,11 +5,23 @@
 	<parent>
 		<groupId>group</groupId>
 		<artifactId>artefakt-parent</artifactId>
-		<version>1.14</version>
+		<version>1.18</version>
 	</parent>
 
 	<groupId>group</groupId>
 	<artifactId>project2</artifactId>
-	<version>1.14</version>
+	<version>1.18</version>
+
+	<properties>
+		<project1.version>1.18</project1.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>group</groupId>
+			<artifactId>project1</artifactId>
+			<version>${project1.version}</version>
+		</dependency>
+	</dependencies>
 
 </project>
