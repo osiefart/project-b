@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>group</groupId>
 		<artifactId>project-parent</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.2</version>
 	</parent>
 
 	<groupId>group</groupId>
@@ -14,7 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<project-a.version>0.0.1-SNAPSHOT</project-a.version>
+		<project-a.version>1.0.2</project-a.version>
 	</properties>
 
 	<dependencies>
