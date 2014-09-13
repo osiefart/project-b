@@ -5,11 +5,11 @@
 	<parent>
 		<groupId>group</groupId>
 		<artifactId>artefakt-parent</artifactId>
-		<version>1.13</version>
+		<version>1.14</version>
 	</parent>
 
 	<groupId>group</groupId>
 	<artifactId>project2</artifactId>
-	<version>1.13</version>
+	<version>1.14</version>
 
 </project>
