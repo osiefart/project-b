@@ -14,7 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<project1.version>0.0.1-SNAPSHOT</project1.version>
+		<project-a.version>0.0.1-SNAPSHOT</project-a.version>
 	</properties>
 
 	<dependencies>
