@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>group</groupId>
 		<artifactId>project-parent</artifactId>
-		<version>7.4</version>
+		<version>7.5</version>
 	</parent>
 
 	<groupId>group</groupId>
@@ -13,7 +13,7 @@
 	<version>7.5-SNAPSHOT</version>
 
 	<properties>
-		<project-a.version>7.4</project-a.version>
+		<project-a.version>7.5</project-a.version>
 	</properties>
 
 	<dependencies>
